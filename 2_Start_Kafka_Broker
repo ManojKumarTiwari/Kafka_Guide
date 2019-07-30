@@ -1,3 +1,3 @@
-Step2_Start_Kafka_Broker
+2_Start_Kafka_Broker
 
 C:\kafka_2.12-2.2.0> kafka-server-start.bat config\server.properties
